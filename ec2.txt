@@ -3,3 +3,4 @@ instances
 key-pairs
 security-groups
 subnets
+ami
