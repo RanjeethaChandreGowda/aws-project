@@ -4,3 +4,4 @@ key-pairs
 security-groups
 subnets
 ami
+Route Table address : 0.0.0.0
